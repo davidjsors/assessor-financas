@@ -8,7 +8,7 @@
 
 ## 🎯 O Desafio & Motivação
 
-Este projeto nasceu do desejo de aplicar conceitos e práticas de Inteligência Artificial e Python, apreendidos no Boootcamp Bradesco - GenAI & Dados (DIO), para resolver um problema crítico da sociedade brasileira: **a falta de literacia financeira**.
+Este projeto nasceu do meu esejo de aplicar conceitos e práticas de Inteligência Artificial e Python, apreendidos no Boootcamp Bradesco - GenAI & Dados (DIO), para resolver um problema crítico da sociedade brasileira: **a falta de literacia financeira**.
 
 Segundo dados da **[Federação Brasileira de Bancos(Febraban)](https://portal.febraban.org.br/noticia/4324/pt-br/)**, a maioria da população admite ter pouco conhecimento sobre como gerir seu dinheiro, o que gera insegurança e estresse familiar.
 
