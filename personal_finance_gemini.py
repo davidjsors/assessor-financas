@@ -1,3 +1,9 @@
+# ==============================================================================
+# PROJETO: ASSESSOR FINANCEIRO INTELIGENTE POR VOZ
+# AUTOR: David Soares
+# STACK: Google Gemini (STT + LLM) | Microsoft Edge TTS (Áudio Neural) | Python
+# ==============================================================================
+
 language = 'pt'
 
 # Captura de Áudio
