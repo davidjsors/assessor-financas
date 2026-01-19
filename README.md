@@ -2,7 +2,7 @@
 
 > "A maioria dos brasileiros admite que entende pouco ou nada de educação financeira, mas reconhece que o tema é muito importante" — Febraban (2025)
 
-![Status](https://img.shields.io/badge/Status-Concluído-success)
+![Google Colab](https://img.shields.io/badge/Status-Concluído-success)
 ![Technology](https://img.shields.io/badge/AI-Google%20Gemini%20%2B%20Edge%20TTS-blue)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 
