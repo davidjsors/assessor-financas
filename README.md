@@ -13,7 +13,7 @@ Este projeto nasceu do meu desejo de aplicar conceitos e práticas de Inteligên
 Segundo dados da **[Federação Brasileira de Bancos(Febraban)](https://portal.febraban.org.br/noticia/4324/pt-br/)**, a maioria da população admite ter pouco conhecimento sobre como gerir seu dinheiro, o que gera insegurança e estresse familiar.
 
 **A Solução:**
-Um **Assessor Financeiro por Voz** acessível, que atua como um "Gerente Pessoal de Bolso". Ele não apenas responde dúvidas, mas **orienta ativamente** o usuário sobre alocação de orçamento e tipos de investimento, usando linguagem natural e empática.
+um **Assessor Financeiro por Voz** acessível, que atua como um "Gerente Pessoal de Bolso". Ele não apenas responde dúvidas, mas **orienta ativamente** o usuário sobre alocação de orçamento e tipos de investimento, usando linguagem natural e empática.
 
 ## 💡 Stack
 
