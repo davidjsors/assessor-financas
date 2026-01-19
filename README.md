@@ -24,15 +24,15 @@ Este projeto implementa uma arquitetura **Lean & Powerful** no Google Colab:
 
 ## 🛠️ Como Funciona
 
-1.  **Captura:** o usuário fala suas dúvidas ou situação financeira (ex: "Ganho R$ 3.000 e gasto tudo").
-2.  **Processamento:** O áudio é transcrito e analisado pelo Gemini com um prompt de sistema especializado em *Finanças Pessoais*.
-3.  **Resposta:** a IA gera um plano de ação prático e o converte em áudio neural para o usuário ouvir.
+1.  **Captura:** o usuário fala suas dúvidas ou situação financeira (ex: "Ganho 4 mil reais, mas meu cartão de crédito vem 5 mil todo mês. Como eu saio dessa dívida?).
+2.  **Processamento:** o áudio é transcrito e analisado pelo Gemini com um prompt de sistema especializado em *Finanças Pessoais*.
+3.  **Resposta:** o Assessor Financeiro (IA) sugere orientações e caminhos que podem ser seguidos para sanar um desafio ou dúvidas, além disso, converte a resposta em áudio para que o usuário possa ouvir.
 
 ## 🚀 Tecnologias Utilizadas
 
 * **Linguagem:** Python
 * **IA Generativa:** Google GenAI SDK (Gemini 2.5 Flash)
-* **Síntese de Voz:** Edge TTS (pt-BR-FranciscaNeural
+* **Síntese de Voz:** Edge TTS (pt-BR-FranciscaNeural)
 * **Frontend/Captura:** JavaScript (integração via Browser/Colab)
 
 ## 💻 Como Executar
