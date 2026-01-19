@@ -56,7 +56,7 @@ from google import genai
 import os
 
 # --- 1. Configuração ---
-GOOGLE_API_KEY = "AIzaSyBJk7QiX1GClYORU6DOe7NOP0HhofQAu9o"
+GOOGLE_API_KEY = "XXXXXXXXXXXXXXXXXXXX"
 client = genai.Client(api_key=GOOGLE_API_KEY)
 
 # --- 2. Função de Transcrição ---
