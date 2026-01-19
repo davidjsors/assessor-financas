@@ -37,13 +37,30 @@ Este projeto implementa uma arquitetura **Lean & Powerful** no Google Colab:
 
 ## 📄 Como Executar
 
-1.  Clone este repositório.
-2.  Instale as dependências:
-    ```bash
-    pip install google-genai edge-tts
-    ```
-3.  Defina sua `GOOGLE_API_KEY` no script.
-4.  Execute o notebook no Google Colab e permita o acesso ao microfone.
+## 💻 Como Executar
+
+Este projeto foi otimizado para rodar diretamente na nuvem via **Google Colab**, eliminando a necessidade de configurações complexas de ambiente local.
+
+### Passo a Passo
+
+1.  **Acesse o Google Colab:**
+    * Crie um novo notebook em [colab.research.google.com](https://colab.research.google.com/).
+
+2.  **Prepare a API Key:**
+    * Gere sua chave gratuita no [Google AI Studio](https://aistudio.google.com/).
+
+3.  **Execute o Código:**
+    * Copie o script único disponível abaixo (ou no arquivo `personal_finance_gemini.py` deste repositório).
+    * Cole em uma célula de código do Colab.
+    * Substitua `GOOGLE_API_KEY = "..."` pela sua chave real.
+    * Pressione `Play` (ou `Ctrl + Enter`).
+
+4.  **Interaja:**
+    * Permita o acesso ao microfone quando o navegador solicitar.
+    * Fale sua dúvida financeira (ex: *"Como começar uma reserva de emergência?"*).
+    * Aguarde a resposta em áudio e texto.
+
+---
 
 ---
 *Projeto desenvolvido como aplicação prática de IA Generativa para o setor financeiro.*
