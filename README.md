@@ -8,7 +8,7 @@
 
 ## 🎯 O Desafio & Motivação
 
-Este projeto nasceu da necessidade de aplicar conceitos e práticas de Inteligência Artificial para resolver um problema crítico da sociedade brasileira: **a falta de literacia financeira**.
+Este projeto nasceu do desejo de aplicar conceitos e práticas de Inteligência Artificial e Python, apreendidos no Boootcamp Bradesco - GenAI & Dados (DIO), para resolver um problema crítico da sociedade brasileira: **a falta de literacia financeira**.
 
 Segundo dados da **[Federação Brasileira de Bancos(Febraban)](https://portal.febraban.org.br/noticia/4324/pt-br/)**, a maioria da população admite ter pouco conhecimento sobre como gerir seu dinheiro, o que gera insegurança e estresse familiar.
 
@@ -35,8 +35,6 @@ Este projeto implementa uma arquitetura **Lean & Powerful** no Google Colab:
 * **Síntese de Voz:** Edge TTS (pt-BR-FranciscaNeural
 * **Frontend/Captura:** JavaScript (integração via Browser/Colab)
 
-## 📄 Como Executar
-
 ## 💻 Como Executar
 
 Este projeto foi otimizado para rodar diretamente na nuvem via **Google Colab**, eliminando a necessidade de configurações complexas de ambiente local.
@@ -50,7 +48,7 @@ Este projeto foi otimizado para rodar diretamente na nuvem via **Google Colab**,
     * Gere sua chave gratuita no [Google AI Studio](https://aistudio.google.com/).
 
 3.  **Execute o Código:**
-    * Copie o script único disponível abaixo (ou no arquivo `personal_finance_gemini.py` deste repositório).
+    * Copie o script contido no arquivo `personal_finance_gemini.py` deste repositório.
     * Cole em uma célula de código do Colab.
     * Substitua `GOOGLE_API_KEY = "..."` pela sua chave real.
     * Pressione `Play` (ou `Ctrl + Enter`).
@@ -59,8 +57,6 @@ Este projeto foi otimizado para rodar diretamente na nuvem via **Google Colab**,
     * Permita o acesso ao microfone quando o navegador solicitar.
     * Fale sua dúvida financeira (ex: *"Como começar uma reserva de emergência?"*).
     * Aguarde a resposta em áudio e texto.
-
----
 
 ---
 *Projeto desenvolvido como aplicação prática de IA Generativa para o setor financeiro.*
