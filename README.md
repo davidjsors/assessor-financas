@@ -1,10 +1,10 @@
-# 💰 Assessor Financeiro Inteligente por Voz com IA
-
-> "A maioria dos brasileiros admite que entende pouco ou nada de educação financeira, mas reconhece que o tema é muito importante" — Febraban (2025)
-
 ![Google Colab](https://img.shields.io/badge/Google_Colab-00599C?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Technology](https://img.shields.io/badge/AI-Google%20Gemini%20%2B%20Edge%20TTS-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+# 💰 Assessor Financeiro Inteligente por Voz com IA
+
+> "A maioria dos brasileiros admite que entende pouco ou nada de educação financeira, mas reconhece que o tema é muito importante" — Febraban (2025)
 
 ## 🎯 O Desafio & Motivação
 
