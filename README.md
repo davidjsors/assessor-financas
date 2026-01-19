@@ -2,9 +2,9 @@
 
 > "A maioria dos brasileiros admite que entende pouco ou nada de educação financeira, mas reconhece que o tema é muito importante" — Febraban (2025)
 
-![Google Colab](https://img.shields.io/badge/Status-Concluído-success)
-![Technology](https://img.shields.io/badge/AI-Google%20Gemini%20%2B%20Edge%20TTS-blue)
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-00599C?style=for-the-badge&logo=google-colab&logoColor=white)
+![Technology](https://img.shields.io/badge/AI-Google%20Gemini%20%2B%20Edge%20TTS-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🎯 O Desafio & Motivação
 
@@ -13,7 +13,7 @@ Este projeto nasceu da necessidade de aplicar conceitos e práticas de Inteligê
 Segundo dados da **[Federação Brasileira de Bancos(Febraban)](https://portal.febraban.org.br/noticia/4324/pt-br/)**, a maioria da população admite ter pouco conhecimento sobre como gerir seu dinheiro, o que gera insegurança e estresse familiar.
 
 **A Solução:**
-Desenvolvi um **Assessor Financeiro por Voz** acessível, que atua como um "Gerente Pessoal de Bolso". Ele não apenas responde dúvidas, mas **orienta ativamente** o usuário sobre alocação de orçamento e tipos de investimento, usando linguagem natural e empática.
+Um **Assessor Financeiro por Voz** acessível, que atua como um "Gerente Pessoal de Bolso". Ele não apenas responde dúvidas, mas **orienta ativamente** o usuário sobre alocação de orçamento e tipos de investimento, usando linguagem natural e empática.
 
 ## 💡 Stack
 
